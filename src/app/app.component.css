@@ -1,0 +1,313 @@
+.backgroung-img .im
+
+{
+    position: absolute;
+    width: 84.3rem;
+    height: 42rem;
+    z-index: -1;
+    top: 0px;
+}
+
+.backgroung-img .logo
+{
+   
+    position: absolute;
+    top: 30px;
+    left: 155px;
+
+
+}
+
+.backgroung-img .phone
+{
+    position: absolute;
+    left: 32rem;
+    top: 47px;
+    width: 29px;
+}
+.backgroung-img .phone-number
+{
+    position: absolute;
+    color: #fff;
+    left: 35rem;
+    top: 34px;
+    font-size: 22px;
+}
+
+.mail-id
+{
+    position: absolute;
+    left: 48rem;
+    top: 20px;
+}
+.mail-id .mail-icon
+{
+    left: 20px;
+    position: absolute;
+    top: 30px;
+}
+
+.mail-id .maili-i
+{
+    position: absolute;
+    font-size: 22px;
+    left: 63px;
+    top: 15px;
+    color: #fff;
+}
+.search
+{
+    position: absolute;
+    left: 67rem;
+    top: 53px;
+}
+.heading .first-heading
+{
+    color: #f36b2a;
+    text-transform: uppercase;
+    font-size: 48px;
+    font-weight: 700;
+    padding: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12rem;
+    left: 30px;
+    font-family: sans-serif;
+}
+.heading  .secound-heading
+{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 135px;
+    font-weight: 700;
+    padding: 0;
+    line-height: 125px;
+    margin-bottom: 35px;
+    position: absolute;
+    top: 13rem;
+    left: 30px;
+    font-family: sans-serif;
+}
+.heading .pra
+{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 0;
+    line-height: normal;
+    margin-bottom: 50px;
+    position: absolute;
+    top: 28rem;
+    width: 370px;
+    left: 30px;
+    font-family: sans-serif;
+}
+
+.backgroung-img .car
+{
+    position: absolute;
+    width: 727px;
+    left: 34rem;
+    top: 18rem;
+}
+
+.btn
+{
+    width: 190px;
+    height: 50px;
+    background: #f36b2a;
+    float: left;
+    margin-right: 15px;
+    line-height: 50px;
+    border-radius: 100px;
+    color: #fff;
+    text-align: left;
+    padding: 0px 25px;
+    font-weight: 400;
+    position: relative;
+    font-size: 28px;
+    color: deepskyblue;
+    letter-spacing: 0.1px;
+    top: 35rem;
+    left: 25px;
+    border-bottom: none;
+    border-style: dotted;
+}
+
+.about
+{
+    position: absolute;
+    top: 47rem;
+    left: 9rem;
+}
+.about .abt
+{
+    position: absolute;
+    font-size: 77px;
+    width: 359px;
+
+}
+.about .abt-con
+{
+    position: absolute;
+    font-size: 20px;
+    top: 151px;
+    width: 323px;
+}
+
+.about-car
+{
+    width: 651px;
+    left: 455px;
+    position: absolute;
+}
+
+.our-cars
+{
+    position: absolute;
+    top: 83rem;
+    left: 2rem;
+   
+}
+
+.our-cars .our-car
+{
+    width: 757px;
+}
+.our-cars .our-heading
+{
+    position: absolute;
+    left: 53rem;
+    top: 0rem;
+    width: 300px;
+    font-size: 70px;
+}
+.our-cars .our-con
+{
+    position: absolute;
+    left: 54rem;
+    width: 277px;
+    top: 8rem;
+}
+
+.backg .back
+{
+    
+    height: 8rem;
+    position: relative;
+    top: -8rem;
+    width: 117rem;
+}
+
+.backg
+{    background-color: #161c34;
+    width: 84.3rem;
+    height: 42rem;
+    position: absolute;
+    top: 130rem;
+}
+
+.head-h
+{
+    width: 509px;
+    height: 105px;
+    background-color: #f36b2a;
+    position: absolute;
+    left: 28rem;
+}
+
+.heading-choose
+{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    position: relative;
+    top: -14px;
+}
+
+.all-img .one 
+{
+    right: 252px;
+    position: relative;
+    top: 75px;
+    left: -191px;
+}
+.all-img .one h1
+{
+    position: relative;
+    width: 274px;
+    font-size: 22px;
+    /* left: -106px; */
+    right: 86px;
+    color: #fff;
+}
+.all-img .one p
+{
+    width: 292px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    right: 107px;
+    font-size: 18px;
+}
+
+
+.all-img .two 
+{
+    right: 252px;
+    position: relative;
+    top: -175px;
+    left: 196px;
+}
+.all-img .two h1
+{
+    position: relative;
+    width: 318px;
+    font-size: 22px;
+    right: 86px;
+    color: #fff;
+}
+.all-img .two p
+{
+    width: 292px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    right: 107px;
+    font-size: 18px;
+}
+
+
+
+.all-img .three
+{
+    right: 252px;
+    position: relative;
+    top: -420px;
+    left: 600px;
+    width: 259px;
+}
+.all-img .three h1
+{
+    position: relative;
+    width: 318px;
+    font-size: 22px;
+    right: 86px;
+    color: #fff;
+}
+.all-img .three p
+{
+    width: 292px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    right: 107px;
+    font-size: 18px;
+}
+
+.all-img
+{
+    position: relative;
+    top: 15px;
+    left: -33px;
+}
